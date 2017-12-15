@@ -1,0 +1,22 @@
+{
+  "name": "npm-test-energy",
+  "version": "0.0.1",
+  "description": "npm publish test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaogan2016/npm-test-energy.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "energy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaogan2016/npm-test-energy/issues"
+  },
+  "homepage": "https://github.com/xiaogan2016/npm-test-energy#readme"
+}
